@@ -1,5 +1,7 @@
 <template>
-  <div class="wra">1</div>
+  <div class="wra">
+      我的
+  </div>
 </template>
 
 <script>
